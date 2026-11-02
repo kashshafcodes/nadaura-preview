@@ -26,7 +26,7 @@ export const store = {
 
   lang: "bn",
   builtBy: "Kazi Marzuk",
-  builtByUrl: "https://wa.me/8801891966267",
+  builtByUrl: "https://kashshafcodes.github.io/",
 
   categories: [
     { id: "bangles", label: "সুতার চুড়ি" },
